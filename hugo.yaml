@@ -4,8 +4,9 @@ theme: "PaperMod"
 languageCode: "en-us"
 relativeURLs: false
 canonifyURLs: true
-publishDir: public
+publishDir: public/blogs
 
 params:
   showReadingTime: true
   homeInfo: "My Blog <3 - Just documenting my learnings, insights and experiences on the record maybe for you guys but mostly for me :>"
+  enableSRI: false

@@ -3,4 +3,5 @@
 	url = https://github.com/adityatelange/hugo-PaperMod.git
 [submodule "public"]
 	path = public
-	url = https://github.com/KENWOLVERINE1/kenwolverine1.github.io.git
+	url = https://github.com/kenwolverine1/kenwolverine1.github.io
+	branch = main
